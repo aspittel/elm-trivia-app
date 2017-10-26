@@ -14,7 +14,7 @@ I think the CSS is the biggest feature! Other than that, it's pretty basic! Its 
 * Elm
 
 ## Deployment
-App is deployed at aspittel.github.io/elm-trivia-app.
+App is deployed at https://aspittel.github.io/elm-trivia-app.
 
 ## Local Install
 ```bash
